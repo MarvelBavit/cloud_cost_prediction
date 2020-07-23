@@ -32,6 +32,8 @@ Modeling
 Using LSTM, a variant of Recurrent Neural Networks to learn order dependence in sequence prediction.
 Initially using 4 LSTM layers with dropout regularization, to avoid overfitting.
 
+Keras python library is used for creating model.
+
 Read: https://medium.com/x8-the-ai-community/a-7-minute-introduction-to-lstm-5e1480e6f52a - LSTM
 
 https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/ - Dropout
